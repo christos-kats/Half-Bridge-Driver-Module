@@ -1,0 +1,53 @@
+# ====================================================================
+# Altium Designer GitIgnore Template
+# ====================================================================
+
+# --- Project Outputs & Manufacturing ---
+# Ignore generation folders (uncomment if you generate these locally 
+# and don't want them in the repo)
+# Project Outputs*/
+# Outputs/
+
+# --- History and Backups ---
+# Altium's local file history/autosave folders
+History/
+__Previews/
+*.Bak-[0-9]*
+
+# --- Local User Preferences & Workspace State ---
+# These store your personal window layouts, open tabs, and local settings
+*.PcbDoc.htm
+*.SchDoc.htm
+*.Annotation
+*.UserTools
+*.Workspace
+*.Xatus
+*.TxtReg
+*.Local
+*.out
+
+# --- Logs, Reports, and Temporary Files ---
+*.LOG
+*.log
+*.Txt
+*.txt
+*.DRC
+*.REP
+*.rep
+*.ERR
+*.err
+*.apr
+*.Apr
+*.ptf
+*.Ptf
+*.html
+*.HTML
+*.xml
+*.XML
+Status Report.Txt
+
+# --- Compiler & Simulation Artifacts ---
+# Generated structural/netlist caches
+Project Logs for */
+Project Outputs for */
+__WorkspaceSR.dat

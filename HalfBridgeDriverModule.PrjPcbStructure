@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=DriverModule.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=DriverModule.SchDoc|Designator=U_Half_Bridge_1|SchDesignator=U_Half_Bridge_1|FileName=HalfBridgeDriver.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=HalfBridgeDriver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
